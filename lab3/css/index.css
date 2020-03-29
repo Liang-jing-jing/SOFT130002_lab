@@ -1,0 +1,63 @@
+
+.div-left{
+    float: right;
+    margin-top: 10px;
+}
+
+.div-right {
+    margin-right: 200px;
+    margin-top: 5px;
+    padding-right: 20px;
+    color: #000000;
+    float: right;
+}
+.contents{
+    padding: 10px;
+    margin: 20px 150px;
+    background-color: white;
+}
+
+.functions{
+    background-color: white;
+}
+
+
+.title{
+    margin-top: 10px;
+    font-size: 2em;
+    text-align: left;
+}
+.information{
+    background-color: white;
+    border-bottom: 1px dotted black ;
+}
+.information h2,blockquote{
+    text-align: left;
+    padding: 0 40px;
+}
+.information h2:hover,blockquote:hover{
+    color: #87bff2;
+}
+.title:hover{
+    color: #87bff2;
+}
+.information p{
+    padding: 5px 60px;
+    text-align: left;
+}
+.menu{
+    text-align: center;
+    color: #87bff2;
+}
+.information blockquote{
+    color: #87bff2;
+}
+.details{
+    box-shadow: 2px 5px 7px rgba(0,0,0,.75);
+}
+.comment{
+    box-shadow: 2px 6px 8px rgba(0,0,0,.75);
+}
+.functions{
+    box-shadow: 2px 6px 8px rgba(0,0,0,.75);
+}
