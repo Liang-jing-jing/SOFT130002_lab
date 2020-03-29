@@ -1,10 +1,10 @@
 input, textarea {
-    padding: 5px;
-    margin: 5px 0;
+    padding: 3px;
+    margin: 8px 0;
     width: 35%;
     background-color: #ffffff;
-    border: #56707f solid 1px;
-    border-radius: 3px;
+    border: #56707f solid 2px;
+    border-radius: 5px;
     color: #000000
 }
 
@@ -15,7 +15,7 @@ select {
 }
 
 input[type="checkbox"], input[type="radio"] {
-    width: 30px;
+    width: 32px;
 }
 
 
@@ -29,12 +29,9 @@ textarea {
     height: 15em;
 }
 .home{
-    background-color: white;
     color: black;
     float: right;
-    width: 100%;
     font-size: 2em;
-    text-align: right;
 }
 h1{
     font-size: 3em;
