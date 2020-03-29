@@ -8,13 +8,14 @@ body {
 
 header {
     color: #000000;
-    background-color: #ffffff;
+    background-color: snow;
     text-align: center;
-    height: 70px;
+    height: 75px;
 }
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
+    background-color: #f6f6f6;
 }
 
 ol, ul {
@@ -41,9 +42,7 @@ li {
     display: inline-block;
 }
 
-nav li {
-    padding: 0 1em;
-}
+
 
 a {
     color: #000000;
@@ -52,6 +51,8 @@ a {
 h3 a{
     padding: 5px;
     color: black;
+    font-size: 1.3em;
+    margin-bottom: 5px;
 }
 a:hover{
     color: #87bff2;
@@ -67,9 +68,7 @@ aside {
     background-color: #ffffff;
 }
 
-aside a {
-    color: black;
-}
+
 aside a:hover{
     color: #87bff2;
 }
@@ -77,10 +76,12 @@ aside ul {
     padding: 0;
     width: 100%;
     height: 100%;
+    color: black;
 }
 
 aside li {
     display: block;
     text-align: center;
-    padding: 0.2em 0.5em;
+    padding: 0.2em 0.8em;
+    color: black;
 }
