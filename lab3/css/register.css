@@ -1,6 +1,6 @@
 input, textarea {
-    padding: 0.5em;
-    margin: 0.5em 0;
+    padding: 5px;
+    margin: 5px 0;
     width: 35%;
     background-color: #ffffff;
     border: #56707f solid 1px;
@@ -10,22 +10,19 @@ input, textarea {
 
 select {
     background-color: #ffffff;
-    border: #56707f solid 1px;
+    border: #56707f solid 2px;
     color: #000000
 }
 
 input[type="checkbox"], input[type="radio"] {
-    width: 2em;
+    width: 30px;
 }
 
-input[type="button"],input[type="submit"]  {
-    background-color: #ffffff;
-    border: #171a21 solid 1px;
-    width: 4em;
-}
+
 
 input[type="button"],input[type="submit"],input[type="checkbox"], input[type="radio"], select:hover {
     cursor: pointer;
+
 }
 
 textarea {
@@ -43,8 +40,11 @@ h1{
     font-size: 3em;
     color: dimgrey;
 }
+h1:hover{
+    color: white;
+}
 .main{
-    background-color: aliceblue;
+    background-color: #f6f6f6;
     margin: 40px 500px;
     box-shadow: 2px 6px 8px rgba(0,0,0,.75);
     padding-left: 50px;
@@ -61,7 +61,7 @@ h1{
 .button{
     width: 200px;
     padding:8px;
-    background-color: aliceblue;
+    background-color: white;
     color: black;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -70,4 +70,15 @@ h1{
     vertical-align: middle;
     border: 1px solid transparent;
     font-weight: 900;
+    margin-bottom: 20px;
+}
+.button:hover{
+    background-color: aliceblue;
+}
+.area{
+    width: 35%;
+    text-align: center;
+}
+textarea{
+    width:600px;
 }

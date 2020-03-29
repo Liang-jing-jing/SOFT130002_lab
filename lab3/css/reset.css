@@ -12,7 +12,25 @@ header {
     text-align: center;
     height: 70px;
 }
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
 
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
 nav {
     float: left;
     margin: auto 3em;
@@ -32,7 +50,8 @@ a {
     text-decoration:none;
 }
 h3 a{
-    padding: 10px;
+    padding: 5px;
+    color: black;
 }
 a:hover{
     color: #87bff2;
@@ -51,14 +70,17 @@ aside {
 aside a {
     color: black;
 }
-
+aside a:hover{
+    color: #87bff2;
+}
 aside ul {
     padding: 0;
     width: 100%;
+    height: 100%;
 }
 
 aside li {
     display: block;
     text-align: center;
-    padding: 0.2em 0;
+    padding: 0.2em 0.5em;
 }
