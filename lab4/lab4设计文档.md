@@ -13,5 +13,5 @@ LAB 4 设计文档
 
 如下：
 
-！[Image text](https://github.com/Liang-jing-jing/SOFT130002_lab/blob/master/lab4/images/design-sketch/1.png)
-！[Image text](https://github.com/Liang-jing-jing/SOFT130002_lab/blob/master/lab4/images/design-sketch/2.png)
+![sample](https://github.com/Liang-jing-jing/SOFT130002_lab/blob/master/lab4/images/design-sketch/1.png)
+![sample](https://github.com/Liang-jing-jing/SOFT130002_lab/blob/master/lab4/images/design-sketch/2.png)
