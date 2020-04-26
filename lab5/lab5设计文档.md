@@ -42,3 +42,7 @@ a为开始时的分钟数，b为开始时的秒数
 ![sample](lab5效果图/max-1.png)
 
 ![sample](lab5效果图/max-2.png)
+
+GitHub截图如下：
+
+![sample](lab5效果图/GitHub.JPG)
