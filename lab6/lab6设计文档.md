@@ -121,10 +121,16 @@ toLocaleString() :把数组转换为本地数组，并返回结果。
 
 
 ## 4.GitHub截图
+![sample](lab6效果图/GitHub截图-1.png)
 
+![sample](lab6效果图/GitHub截图-2.png)
+
+![sample](lab6效果图/GitHub截图-3.png)
+
+![sample](lab6效果图/GitHub截图-4.png)
 
 ## 5.本地命令行截图
 第一题截图
 ![sample](lab6效果图/第一题截图.png)
 
-![sample](lab6效果图/命令行截图.png)
+![sample](lab6效果图/命令行截图（2-8）.png)
