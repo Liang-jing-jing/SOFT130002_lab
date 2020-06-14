@@ -14,6 +14,7 @@
 
 
 <?php
+session_start();
 function getLoginForm(){
    return "
 <form action='' method='post' role='form'>
